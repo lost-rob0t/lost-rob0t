@@ -14,28 +14,3 @@ Not all my github commits show because github wont verify my email :(
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lost-rob0t&theme=synthwave&layout=compact" 
     alt="nsaspy's top languages" />
 </a>
-<a href="https://github.com/lost-rob0t">
-  <img align="center" width="49%" src="./header.svg" />
-</a>
-<br/>
-<a href="https://github.com/lost-rob0t">
-  <img align="center" width="49%" src="./repositories.svg" />
-</a>
-<a href="https://github.com/lost-rob0t">
-  <img align="center" width="49%" src="./acti_comm.svg" />
-</a>
-
-<a href="https://github.com/lost-rob0t">
-  <img align="center" width="49%" src="./iso_calender.svg" />
-</a>
-
-<a href="https://github.com/lost-rob0t">
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
-
-<a href="https://github.com/lost-rob0t">
-  <img align="center" width="49%" src="./github-habits.svg" />
-</a>
-<a href="https://github.com/lost-rob0t">
-    <img align="center" width="49%" src="./achievements.svg" />
-</a>
