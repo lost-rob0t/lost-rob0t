@@ -36,6 +36,7 @@ Read my notes and experiments on the [lost-rob0t blog](https://lost-rob0t.github
 languages   Common Lisp · Nim · Prolog · Python · Emacs Lisp
 systems     Linux · NixOS · Docker · RabbitMQ · CouchDB
 interests   security · OSINT · actors · expert systems · automation
+LLM         GLM 5.2/GPT
 editor      Emacs, obviously
 ```
 
